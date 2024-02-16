@@ -1,9 +1,10 @@
 import React from "react";
-import '../Main/main.css'
+import "../Main/main.css";
 
 const Main = () => {
   return (
     <>
+    <div className="body">
       <div class="pages">
         <input id="one" name="trigger" type="radio" />
         <input id="two" name="trigger" type="radio" />
@@ -275,6 +276,7 @@ const Main = () => {
             </div>
           </div>
         </div>
+      </div>
       </div>
     </>
   );
