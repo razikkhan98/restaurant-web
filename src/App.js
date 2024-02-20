@@ -3,6 +3,7 @@ import "./App.css";
 import Main from "./Component/Main/main";
 import Loading from "./Component/Common/Loading/loading";
 import Receptionis from "../src/Component/Pages/Receptionist/ReceptionistIndex/index";
+import Customer from "./Component/Pages/Customer/customer";
 
 function App() {
   const [loading, setLoading] = useState(true);
@@ -19,8 +20,8 @@ function App() {
 
   return (
     <>
-      {loading ? <Loading /> : <Main />}
-      {/* <Receptionis /> */}
+      {/* {loading ? <Loading /> : <Main />} */}
+      <Customer/>
     </>
   );
 }
