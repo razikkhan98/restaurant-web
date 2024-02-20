@@ -118,7 +118,7 @@ const Main = () => {
               <i class="far fa-share-square"></i>
             </div>
             <div class="content">
-              <div class="content_quote">
+              {/* <div class="content_quote">
                 <h5>
                   <span class="quo">
                     <i>"</i>
@@ -129,7 +129,7 @@ const Main = () => {
                   <span class="auth">- Jcoulterdesign</span>
                   <span class="quo">"</span>
                 </h5>
-              </div>
+              </div> */}
               <div class="content_picture">
                 <img src="https://i.pinimg.com/originals/1f/bc/f1/1fbcf1c55e839cd7b4aa28c4902669be.jpg" />
               </div>
@@ -183,10 +183,10 @@ const Main = () => {
             <div class="logo">Fashion</div>
             <div class="pagenumber">4 5</div>
             <div class="content">
-              <div class="content_center">
+              {/* <div class="content_center">
                 <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h4>
                 <h6>Lorem ipsum dolor sit amet</h6>
-              </div>
+              </div> */}
             </div>
             <div class="control">
               <label for="two"></label>
@@ -205,13 +205,68 @@ const Main = () => {
             </div>
             <div class="bg"></div>
             <div class="content_centerimage">
-              <img src="https://www.slrlounge.com/wp-content/uploads/2017/09/2brittany-smith-rachelbw6911-800x533.jpg" />
+              <img src="https://www.slrlounge.com/wp-content/uploads/2017/09/2brittany-smith-rachelbw6911-800x533.jpg" alt="Loading" />
             </div>
             <div class="content">
-              <div class="content_center right">
+              {/* <div class="content_center right">
                 <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h4>
                 <h6>Lorem ipsum dolor sit amet</h6>
-              </div>
+              </div> */}
+              {/* <div class="content_quote">
+                <h5>
+                  <span class="quo">
+                    <i>"</i>
+                  </span>
+                  <span>This is a quote</span>
+                  <span>from someone</span>
+                  <span class="name">Jamie Coulter</span>
+                  <span class="auth">- Jcoulterdesign</span>
+                  <span class="quo">"</span>
+                </h5>
+              </div> */}
+              <h1 className="page-text">
+                {/* <span>L</span>
+                <span>o</span>
+                <span>o</span>
+                <span>k</span>
+                <span>&nbsp;</span>
+                <span>a</span>
+                <span>t</span>
+                <span>&nbsp;</span>
+                <span>t</span>
+                <span>h</span>
+                <span>i</span>
+                <span>s</span>
+                <span>&nbsp;</span>
+                <span>a</span>
+                <span>w</span>
+                <span>e</span>
+                <span>s</span>
+                <span>o</span>
+                <span>m</span>
+                <span>e</span>
+                <br />
+                <span>h</span>
+                <span>e</span>
+                <span>a</span>
+                <span>d</span>
+                <span>l</span>
+                <span>i</span>
+                <span>n</span>
+                <span>e</span>
+                <span>&nbsp;</span>
+                <span>r</span>
+                <span>i</span>
+                <span>g</span>
+                <span>h</span>
+                <span>t</span>
+                <span>&nbsp;</span>
+                <span>h</span>
+                <span>e</span>
+                <span>r</span>
+                <span>e</span> */}
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui amet aspernatur quisquam, et explicabo fugit ut optio dignissimos quasi hic fuga eligendi! Repudiandae, quidem! Nisi hic doloribus perspiciatis alias quod!
+              </h1>
             </div>
             <div class="footer">
               <i class="fab fa-google-plus-g"></i>
